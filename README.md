@@ -1,2 +1,38 @@
-# Youtube-Video-Downloader
-A high-performance YouTube media downloader featuring a FastAPI backend and an intuitive user interface hosted locally at http://127.0.0.1:8000. It seamlessly extracts audio and video in multiple resolutions directly from YouTube links.
+# 🎬 YouTube Video Downloader
+
+A lightweight, web-based YouTube downloader built with FastAPI and yt-dlp. Download videos and audio with a clean, modern interface.
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8+-green.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-teal.svg)
+
+---
+
+## 📌 Overview
+
+This tool provides a simple web interface to download YouTube videos and audio. Paste a URL, choose your quality, and download instantly.
+
+**Key Features:**
+- Download video in multiple qualities (720p, 480p, 360p)
+- Extract audio as MP3
+- Real-time progress indicator
+- Clean, responsive dark theme
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- Python 3.8+
+- [FFmpeg](https://ffmpeg.org/) (required for audio extraction)
+
+**Install FFmpeg:**
+```bash
+# Ubuntu/Debian
+sudo apt install ffmpeg
+
+# macOS
+brew install ffmpeg
+
+# Windows - Download from ffmpeg.org
