@@ -40,7 +40,7 @@ brew install ffmpeg
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/youtube-downloader.git
+git clone https://github.com/noobuser978-gif/Youtube-Video-Downloader
 cd youtube-downloader
 
 # Install dependencies
@@ -52,3 +52,17 @@ pip install -r requirements.txt
 python app.py
 ```
 Open your browser and visit: http://127.0.0.1:8000
+
+## 📖 How to Use
+1. Paste the Youtube URL into the input field
+2. Click Fetch or press Enter
+3. Select your preferred quality from the list
+4. Click Download to save the file
+All downloads are saved to the /downloads folder
+
+## 🙋 Support
+    Author: Rajbir Yadav
+
+    Email: noobuser978@gmail.com
+
+    GitHub: noobuser978-gif
