@@ -58,9 +58,11 @@ Open your browser and visit: http://127.0.0.1:8000
 2. Click Fetch or press Enter
 3. Select your preferred quality from the list
 4. Click Download to save the file
+   
 All downloads are saved to the /downloads folder
 
 ## 🙋 Support
+
     Author: Rajbir Yadav
 
     Email: noobuser978@gmail.com
