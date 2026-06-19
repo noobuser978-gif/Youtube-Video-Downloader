@@ -63,8 +63,8 @@ All downloads are saved to the /downloads folder
 
 ## 🙋 Support
 
-    Author: Rajbir Yadav
+   Author: Rajbir Yadav
 
-    Email: noobuser978@gmail.com
+   Email: noobuser978@gmail.com
 
-    GitHub: noobuser978-gif
+   GitHub: noobuser978-gif
