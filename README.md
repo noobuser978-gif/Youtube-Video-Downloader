@@ -36,3 +36,19 @@ sudo apt install ffmpeg
 brew install ffmpeg
 
 # Windows - Download from ffmpeg.org
+```
+## Installation
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/youtube-downloader.git
+cd youtube-downloader
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+## Run the Application
+```bash
+python app.py
+```
+Open your browser and visit: http://127.0.0.1:8000
